@@ -1,0 +1,26 @@
+[
+    {"id" : 1,
+    "isbn" : "9789797098360",
+    "judul": "Reformasi Perkotaan",
+    "sinopsis" : "Boleh jadi cities of tomorrow di Indonesia suatu saat nanti justru akan betul-betul menjadi cities of sorrow yang menyengsarakan anak-cucu kita. Ada yang meramalkan, kota-kota besar saat ini kelak bakal lebih mirip human zoo.",
+    "penulis" : "Eko Budihardjo",
+    "genre" : "non-fiksi"},
+    
+    {"id" : 2,
+    "isbn" : "9786239020903",
+    "judul": "Rahasia Salinem",
+    "sinopsis" : "Salinem dalam Rahasia Salinem (2018) adalah seorang abdi dalem, perempuan yang mengabdikan hidupnya untuk mengurusi kebutuhan keluarga keraton.",
+    "penulis" : "Wisnu Suryaning",
+    "genre" : "novel"},
+    
+    {"id" : 3,
+    "isbn" : "9786024125189",
+    "judul": "Filosofi Teras",
+    "sinopsis" : "Apakah kamu sering merasa khawatir akan banyak hal? baperan? susah move-on? mudah tersinggung dan marah-marah di social media maupun dunia nyata?",
+    "penulis" : "Henry Manampiring",
+    "genre" : "Pengembangan diri"}
+   
+]
+
+
+    
